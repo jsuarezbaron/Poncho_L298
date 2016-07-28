@@ -1,0 +1,72 @@
+PCBNEW-LibModule-V1  
+# encoding utf-8
+Units mm
+$INDEX
+DIL06
+$EndINDEX
+$MODULE DIL06
+Po 0 0 0 15 00000000 00000000 ~~
+Li DIL06
+Cd <b>Dual In Line Package</b>
+Sc 00000000
+At STD
+Op 0 0 0
+.SolderMask 0.1
+.SolderPaste 0
+T0 -4.699 0.381 1 1 900 0.05 N V 21 "DIL06"
+T1 0.762 0 1 1 0 0.05 N V 21 "VAL**"
+DS 3.81 -2.921 -3.81 -2.921 0.1524 21
+DS -3.81 2.921 3.81 2.921 0.1524 21
+DS 3.81 -2.921 3.81 2.921 0.1524 21
+DS -3.81 -2.921 -3.81 -1.016 0.1524 21
+DS -3.81 2.921 -3.81 1.016 0.1524 21
+DA -3.81 0 -3.81 1.016 -1800 0.1524 21
+$PAD
+Sh "1" O 2.6416 1.3208 0 0 2700
+Dr 0.8128 0 0
+At STD N 00E0FFFF
+.SolderMask 0.2
+Ne 0 ""
+Po -2.54 3.81
+$EndPAD
+$PAD
+Sh "2" O 2.6416 1.3208 0 0 2700
+Dr 0.8128 0 0
+At STD N 00E0FFFF
+.SolderMask 0.2
+Ne 0 ""
+Po 0 3.81
+$EndPAD
+$PAD
+Sh "5" O 2.6416 1.3208 0 0 900
+Dr 0.8128 0 0
+At STD N 00E0FFFF
+.SolderMask 0.2
+Ne 0 ""
+Po 0 -3.81
+$EndPAD
+$PAD
+Sh "6" O 2.6416 1.3208 0 0 900
+Dr 0.8128 0 0
+At STD N 00E0FFFF
+.SolderMask 0.2
+Ne 0 ""
+Po -2.54 -3.81
+$EndPAD
+$PAD
+Sh "3" O 2.6416 1.3208 0 0 2700
+Dr 0.8128 0 0
+At STD N 00E0FFFF
+.SolderMask 0.2
+Ne 0 ""
+Po 2.54 3.81
+$EndPAD
+$PAD
+Sh "4" O 2.6416 1.3208 0 0 900
+Dr 0.8128 0 0
+At STD N 00E0FFFF
+.SolderMask 0.2
+Ne 0 ""
+Po 2.54 -3.81
+$EndPAD
+$EndMODULE DIL06
