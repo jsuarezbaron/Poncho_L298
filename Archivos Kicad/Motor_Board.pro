@@ -1,4 +1,4 @@
-update=mar 26 jul 2016 13:04:21 ART
+update=mar 23 ago 2016 20:10:15 ART
 version=1
 last_client=kicad
 [pcbnew]
@@ -25,6 +25,16 @@ version=1
 NetIExt=net
 [general]
 version=1
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
 [eeschema]
 version=1
 LibDir=
@@ -66,13 +76,4 @@ LibName34=Libs/YT_borniers/borniers
 LibName35=Ponchos/kicad/libPonchos/Poncho_Esqueleto
 LibName36=Libs/1N5822/1N5822
 LibName37=Libs/1N4734A/1N4734A
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-LabSize=60
+LibName38=/home/juan/Ponchos/Ponchos/Celda_de_carga/celdaLib/celda
