@@ -41,7 +41,7 @@ Sheet 1 1
 Title "Poncho Motores_L298_Esquemático"
 Date "2016-07-17"
 Rev ""
-Comp "https://github.com/jsuarezbaron/Modulo_L298 "
+Comp ""
 Comment1 "Licencia BSD"
 Comment2 "Page 1"
 Comment3 ""
